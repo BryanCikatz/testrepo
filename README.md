@@ -1,4 +1,3 @@
-# testrepo
 ## My testrepo is the Week 5 Lecture Assignment for the class Doing Data Science (MSDS 6306 - 403). My instructions are:
 ### Go to your testrepo on GitHub.
 ### Create a “readme” file explaining the repo. The README can be edited as needed.
